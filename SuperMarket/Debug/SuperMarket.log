@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\admin\Documents\Visual Studio 2019\Projects\SuperMarket\SuperMarket\SuperMarket.h(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\Documents\Visual Studio 2019\Projects\SuperMarket\SuperMarket\Source.cpp(75,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\Documents\Visual Studio 2019\Projects\SuperMarket\SuperMarket\Source.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+  SuperMarket.vcxproj -> C:\Users\admin\Documents\Visual Studio 2019\Projects\SuperMarket\Debug\SuperMarket.exe
